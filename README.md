@@ -26,7 +26,7 @@ Competitors are encouraged to work in teams of 2-4 students for their project.
 This will allow you to build a good project without expending an excessive amount of effort.
 
 ### Turning in Your Proposal
-You must fork off of this repository to your own github account. Then create a file named "TeamName_Proposal.txt" replacing TeamName with your team name. Draft your proposal (an example proposal is in this repository already) and then make a pull request of only your proposal to the branch teams. Please do not make a pull request for any code. If your pull request is accepted your proposal has been accepted. Proposal deadline is Oct. 31st.
+You must fork off of this repository to your own github account. Then create a file named "TeamName_Proposal.txt" replacing TeamName with your team name. Draft your proposal (an example proposal is in this repository already) and then make a pull request of only your proposal to the branch teams. Your pull request should look like the image Capture.PNG on the master branch. Please do not make a pull request for any code, just your proposal. If your pull request is accepted your proposal has been accepted. Proposal deadline is Oct. 31st.
 
 ### Final Presentation/Video
 In order to show off your final software, we require that you submit a video demonstrating your softwares main features. The video will have a time limit in accordance to how many teams sign up for the event. This will be made explicitly clear prior to the start of the hackathon. And if anything should change, member of UPE will be in attendance to assist.
