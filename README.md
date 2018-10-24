@@ -3,7 +3,7 @@ This is the official repository for the Rocket Software Hackathon taking place N
 
 ## General description
 
-You and your respective Hackathon will be competing to create a software that "Rocket Software topic". Students are encouraged to be creative in their ideations. The event will start at 9AM and last until 9PM. This includes the opening and closing ceremony so the hacking time will be shorter than this. At the event you will be served lunch and dinner. Please bring a computer and charger to the event. During the event, recruiters and software engineers from Rocket Software will be present. Rocket Software serves 48/50 of the fortune 50 companies so look forward to an excellent chance to learn and show off your skills.
+You and your respective Hackathon will be competing to create a software that "Rocket Software topic". Students are encouraged to be creative in their ideations. The event will start at 9AM and last until 9PM. This includes the opening and closing ceremony so the hacking time will be shorter than this. To maximize time fot the hacking please arrive no later than 9AM Nov. 3 2018 to Foisie 203-205 with your team.  At the event you will be served lunch and dinner. Please bring a computer and charger to the event. During the event, recruiters and software engineers from Rocket Software will be present. Rocket Software serves 48/50 of the fortune 50 companies so look forward to an excellent chance to learn and show off your skills.
 
 Happy Hacking!
 
@@ -16,7 +16,6 @@ You are encouraged to identify projects that will have impact.
 Create something useful for a cause or hobby you care about; something that will help you grow as a student and showcase your skills to the recruiters and engineers from Rocket Software
 
 ## Logistics
-Please arrive no later than 9AM Nov. 3 2018 to Foisie 203-205 with your team.
 
 ### Team Name
 Team name have to be appropriate
@@ -25,10 +24,10 @@ Team name have to be appropriate
 Competitors are encouraged to work in teams of 2-4 students for their project. 
 This will allow you to build a good project without expending an excessive amount of effort.
 
-#### Turning in Your Proposal
+### Turning in Your Proposal
 You must fork off of this repository, draft your proposal and then make a pull request. If your pull request is accepted your proposal has been accepted. Proposal deadline is Oct. 31st.
 
-## Final Presentation/Video
+### Final Presentation/Video
 In order to show off your final software, we require that you submit a video demonstrating your softwares main features. The video will have a time limit in accordance to how many teams sign up for the event. This will be made explicitly clear prior to the start of the hackathon. And if anything should change, member of UPE will be in attendance to assist.
 
 ## FAQs
