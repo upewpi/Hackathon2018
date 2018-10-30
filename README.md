@@ -4,7 +4,7 @@ Please read the README in full as in contains important information about the ev
 
 ## General description
 
-You and your respective Hackathon will be competing to create a software that "Rocket Software topic". Students are encouraged to be creative in their ideations. The event will start at 9AM and last until 9PM. This includes the opening and closing ceremony so the hacking time will be shorter than this. To maximize time fot the hacking please arrive no later than 9AM Nov. 3 2018 to Foisie 203-205 with your team.  At the event you will be served lunch and dinner. Please bring a computer and charger to the event. During the event, recruiters and software engineers from Rocket Software will be present. Rocket Software serves 48/50 of the fortune 50 companies so look forward to an excellent chance to learn and show off your skills.
+You and your respective Hackathon will be competing to create a software that helps benefit the community. Students are encouraged to be creative in their ideations. The event will start at 9AM and last until 9PM. This includes the opening and closing ceremony so the hacking time will be shorter than this. To maximize time fot the hacking please arrive no later than 9AM Nov. 3 2018 to Foisie 203-205 with your team.  At the event you will be served lunch and dinner. Please bring a computer and charger to the event. During the event, recruiters and software engineers from Rocket Software will be present. Rocket Software serves 48/50 of the fortune 50 companies so look forward to an excellent chance to learn and show off your skills.
 
 Happy Hacking!
 
